@@ -1,2 +1,2 @@
 # hello-world-rumina-agata
-template for Hello World tutorial
+Template for Hello World tutorial
